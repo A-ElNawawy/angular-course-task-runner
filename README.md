@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
+# Angular-crash-course-2021
+
+Watch [the video](https://www.youtube.com/watch?v=3dHNOWTI7H8).
+The instructor [source code](https://github.com/bradtraversy/angular-crash-2021).
+
+## Project setup
+
+```
+npm install
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
